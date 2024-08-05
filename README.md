@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Samsad Alam</h1>
-<h3 align="center">A passionate Full Stack Developer | Innovator in Web Applicationsfrontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Md Samsad Alam from INDIA</h1>
+<h3 align="center">A passionate Full Stack Developer | Innovator in Web Applications</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-personal-portfolio-sand.vercel.app/#](https://my-personal-portfolio-sand.vercel.app/#)
 
