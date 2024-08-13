@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsadprince134&label=Profile%20views&color=0e75b6&style=flat" alt="samsadprince134" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-personal-portfolio-sand.vercel.app/#](https://my-personal-portfolio-sand.vercel.app/#)
+- 👨‍💻 All of my projects are available at [Portfolio](https://my-personal-portfolio-sand.vercel.app/#)
 
 - 💬 Ask me about **React JS, Node JS, Express JS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/md-samsad-alam-94142121b/**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/md-samsad-alam-94142121b/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ykuMotBesZ1bf3s2lfvtx7h11gZENn9b/view?usp=drivesdk](https://drive.google.com/file/d/1ykuMotBesZ1bf3s2lfvtx7h11gZENn9b/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1seFY5Sa4NtbMINC3X_EwexBN2roLts09/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
